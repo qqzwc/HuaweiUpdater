@@ -1,6 +1,7 @@
 # HuaweiUpdater
 A small tool for updating Huawei/Honor phones
 
+https://forum.xda-developers.com/honor-view-10/development/tool-huaweiupdater-update-to-emui-9-t3884904
 I made a tool to "force update" my phone (Honor View 10, European/C432 model), and I thought I'd share it in case anybody wants to give it a try.
 
 Notes
